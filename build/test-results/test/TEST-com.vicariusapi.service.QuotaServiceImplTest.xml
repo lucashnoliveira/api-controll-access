@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vicariusapi.service.QuotaServiceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-11T04:25:46" hostname="Lucass-MacBook-Pro.local" time="0.794">
+  <properties/>
+  <testcase name="testConsumeQuotaThrowsUserNotFounddException()" classname="com.vicariusapi.service.QuotaServiceImplTest" time="0.765"/>
+  <testcase name="testConsumeQuotaThrowsUserBlockedException()" classname="com.vicariusapi.service.QuotaServiceImplTest" time="0.017"/>
+  <testcase name="testConsumeQuotaCorrectly()" classname="com.vicariusapi.service.QuotaServiceImplTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
