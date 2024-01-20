@@ -1,4 +1,4 @@
-## Vicarius API Project
+## Controll Access API Project
 
 This project is an API project that contains a CRUD for the User entity, so it's possible to add, remove, update and get all the users that you want.
 
